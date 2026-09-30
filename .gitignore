@@ -3,7 +3,7 @@ data/
 runs/
 
 # Generated files
-*.png
+gradient_descent_*.png
 *.dot
 linear_regression_graph
 
