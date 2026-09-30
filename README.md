@@ -4,7 +4,23 @@ Repository pour suivre mon apprentissage et ma pratique de PyTorch.
 
 ## Contenu
 
-### Fondamentaux
+### Fondamentaux PyTorch
+- `tensor_cheatsheet.py` - **Cheatsheet complète** sur les tenseurs
+  - Création, manipulation, reshape
+  - Opérations arithmétiques et algèbre linéaire
+  - Indexation, slicing, broadcasting
+  - Gradient et autograd
+  - 13 sections de référence rapide
+
+- `tensor_basics_examples.py` - **Exemples concrets** sans ML
+  - Physique: trajectoire de projectile
+  - Traitement d'image: convolution manuelle
+  - Statistiques: corrélation, normalisation
+  - Algèbre linéaire: systèmes d'équations
+  - Finance: analyse de séries temporelles
+  - Géométrie: rotations, distances
+  - 9 exemples pratiques
+
 - `gradient_descent_visualization.py` - Visualisation de la descente de gradient
   - Comparaison calcul manuel vs `loss.backward()`
   - Surface de loss en 3D et trajectoire
