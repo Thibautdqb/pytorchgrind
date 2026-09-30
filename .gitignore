@@ -1,0 +1,24 @@
+# Data and logs
+data/
+runs/
+
+# Generated files
+*.png
+*.dot
+linear_regression_graph
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
